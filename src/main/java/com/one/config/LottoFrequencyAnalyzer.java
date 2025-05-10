@@ -1,4 +1,4 @@
-package com.one;
+package com.one.config;
 
 import com.google.gson.JsonObject;
 import com.google.gson.Gson;
